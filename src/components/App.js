@@ -5,7 +5,7 @@ import Name from "./Name.js";
 import Description from "./Description.js";
 
 const App = () => {
-  console.log(data);
+  
   return (
     <div id="main">
       {
