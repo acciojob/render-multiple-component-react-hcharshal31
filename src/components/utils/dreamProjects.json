@@ -1,0 +1,22 @@
+[
+  {
+    "projectName": "AI Health Assistant",
+    "description": "An app that uses AI to provide personalized health recommendations based on symptoms and medical history."
+  },
+  {
+    "projectName": "Smart Home Energy Saver",
+    "description": "A home automation system that learns user habits and optimizes energy usage to reduce bills."
+  },
+  {
+    "projectName": "Language Learning VR Platform",
+    "description": "A virtual reality application that immerses users in real-life situations to learn new languages faster."
+  },
+  {
+    "projectName": "Blockchain Voting System",
+    "description": "A secure, transparent digital voting platform built using blockchain to prevent fraud and ensure trust."
+  },
+  {
+    "projectName": "Personal Finance Mentor",
+    "description": "A mobile app that tracks spending habits and gives AI-driven advice to achieve savings goals."
+  }
+]
